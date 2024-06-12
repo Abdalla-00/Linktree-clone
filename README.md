@@ -1,6 +1,7 @@
 # Linktree-clone
 
 This is a Linktree clone project built with Ruby on Rails. The purpose of this project is to allow users to create a personalized page where they can share multiple links to their social media profiles, websites, or any other online resources.
+Link to deployed site: https://linktreeclone-white-meadow-7223.fly.dev/
 
 ## Features
 
